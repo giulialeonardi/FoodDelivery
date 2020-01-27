@@ -4,9 +4,10 @@ This is a monorepo containing
 * the mobile (react-native) app, including the restaurant information screen only
 
 ## Backend
-### Running in dev mode (requires setup to be completed)
-1. Switch current working directory into `api` folder (i.e. `cd api`)
-2. Start the server `npm start`
+### Running in dev mode
+1. Clone the repository
+2. Switch current working directory into `api` folder (i.e. `cd api`)
+3. Start the server `npm start`
 
 Simulation server is now listening on port 9000
 
